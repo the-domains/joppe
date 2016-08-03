@@ -1,4 +1,3 @@
-layout_spectrum: 0.7644107902888209
 typography_spectrum: 0.3549303321633488
 color:
   brandStrength: 0.40768888336606324
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.7644107902888209
 name: Joppe
+title: Hier is het
 description: Daar is het
